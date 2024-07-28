@@ -1,0 +1,13 @@
+.dark {
+  display: inline-block;
+  height: 64px;
+  width: 64px;
+  background: black;
+}
+
+.light {
+  display: inline-block;
+  height: 64px;
+  width: 64px;
+  background: white;
+}
